@@ -7,16 +7,26 @@
     android:orientation="vertical"
     tools:context="br.com.opet.tds.appregistro.MainActivity">
 
+
     <EditText
-        android:id="@+id/editNome"
-        android:hint="Nome do Artista"
+        android:id="@+id/editFilme"
+        android:hint="Nome do Filme"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
-    <Spinner
-        android:id="@+id/spinnerGenero"
-        android:entries="@array/lista_generos"
+    <EditText
+        android:id="@+id/editGenero"
+        android:hint="Genero"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"></Spinner>
+        android:layout_height="wrap_content" />
+
+    <Spinner
+        android:id="@+id/SpinnerNota"
+        android:entries="@array/lista_nota"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+
+
+    />
     <Button
         android:onClick="salvarArtista"
         android:id="@+id/btnSalvar"

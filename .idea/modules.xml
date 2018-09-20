@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AppRegistro.iml" filepath="$PROJECT_DIR$/AppRegistro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AppRegistro.iml" filepath="$PROJECT_DIR$/.idea/AppRegistro.iml" />
+      <module fileurl="file://C:\Users\opet\AndroidStudioProjects\AppRegistro\AppRegistro.iml" filepath="C:\Users\opet\AndroidStudioProjects\AppRegistro\AppRegistro.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\opet\AndroidStudioProjects\AppRegistro\app\app.iml" filepath="C:\Users\opet\AndroidStudioProjects\AppRegistro\app\app.iml" />
     </modules>
   </component>
 </project>
